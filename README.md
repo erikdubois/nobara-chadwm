@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://github.com/erikdubois/almalinux-chadwm/blob/main/nobara.svg">
+ <img src="https://github.com/erikdubois/nobara-chadwm/blob/main/nobara.svg">
   <br />
    Nobara Chadwm
 </h1>
